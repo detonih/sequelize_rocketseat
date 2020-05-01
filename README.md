@@ -1,0 +1,1 @@
+This project is part of my studies about integrations between databases and containers. My goal is to understand the basics of containerizations of the services an applications needs. For this, I'm following tutorials of RocketSeat school and another several tutirials and documentations on the internet.

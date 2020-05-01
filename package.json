@@ -1,7 +1,7 @@
 {
   "name": "sequelize_rocketseat",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing sequelize and docker",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -16,6 +16,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detonih/sequelize_rocketseat.git"
   },
   "keywords": [],
   "author": "",
